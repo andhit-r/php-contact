@@ -67,7 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <div class="container">
-        <h2>Kontak Kami</h2>
+        <h2>Kontak Kami Ah</h2>
 
         <?php if ($successMessage): ?>
             <div class="success-message"><?php echo $successMessage; ?></div>
